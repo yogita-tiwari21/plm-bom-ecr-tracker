@@ -1,0 +1,4 @@
+ecr_no,ecn_no,date_raised,raised_by_generic,assembly_part,change_description,reason,impact,status,revision_after,approved_by_generic
+SAMPLE-ECR-001,SAMPLE-ECN-001,2026-11-01,Product Coordinator (sample),SAMPLE-CA-001,Change connector from generic type X to generic type Y on both ends,Customer drawing revision — mating interface update,BOM lines 30 and 40; MPS routing step updated,Released,B,Engineering Manager (sample)
+SAMPLE-ECR-002,,2026-11-10,Product Coordinator (sample),SAMPLE-CA-001,Increase cable cut length allowance by 10 mm,Routing feedback — bend radius at install,Qty of SAMPLE-CBL-001 unchanged; cut length note updated,Under review,A,
+SAMPLE-ECR-003,SAMPLE-ECN-002,2026-11-15,Quality Engineer (sample),SAMPLE-CA-001,Add second heat-shrink sleeve inspection step to MPS,Incoming inspection finding — sleeve seating,No BOM change; MPS only,Released,A,Quality Manager (sample)

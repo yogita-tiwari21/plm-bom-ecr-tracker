@@ -1,0 +1,7 @@
+line_no,part_number,description,quantity,unit,revision,supplier_generic,notes
+10,SAMPLE-CA-001,RF cable assembly — generic low-loss coax with SMA plug both ends, 0.5 m,1,EA,A,Supplier A (sample),Finished assembly — top-level item
+20,SAMPLE-CBL-001,Coaxial cable — generic low-loss type, cut to 0.45 m,1,EA,A,Supplier A (sample),Cut length per routing allowance — see cut-length note
+30,SAMPLE-CON-001,Connector — SMA plug straight crimp,1,EA,A,Supplier B (sample),Mating interface per assembly drawing
+40,SAMPLE-CON-002,Connector — SMA plug straight crimp,1,EA,A,Supplier B (sample),Second end — same part as line 30
+50,SAMPLE-SLV-001,Heat-shrink sleeve — generic adhesive-lined, 25 mm,2,EA,A,Supplier C (sample),One per connector end
+60,SAMPLE-LBL-001,Label — generic assembly identification label,1,EA,A,Supplier C (sample),Revision and serial fields per MPS
